@@ -15,7 +15,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 9:](https://github.com/davedove86/python-bootcamp/tree/main/Day%2099) Dictionaries, Nesting and the Secret Auction
 - [Day 10:](https://github.com/davedove86/python-bootcamp/tree/main/Day%2010) Functions with Outputs
 - [Day 11:](https://github.com/davedove86/python-bootcamp/tree/main/Day%2011) The Blackjack Capstone Project
-- [Day 12:]() Scope & Number Guessing Game
+- [Day 12:](/Day%2012/) Scope & Number Guessing Game
 - [Day 13:]() Debugging: How to Find and Fix Errors in your Code
 - [Day 14:]() Higher Lower Game Project
 
